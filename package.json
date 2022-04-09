@@ -1,6 +1,6 @@
 {
   "name": "random-messages-by-j",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "This is a package that provides frendly and famous quotes randomly, to motivate our day bb ;)",
   "main": "src/index.js",
   "scripts": {
